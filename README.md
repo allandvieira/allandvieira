@@ -1,12 +1,12 @@
-<h1 align="left">Hi there, I'm Allan 👽</h1>
+<h1 align="left">Hi, I'm Allan 👽</h1>
 
 <p align="left">🇧🇷 Native Portuguese Speaker | 🇺🇸 Intermediate English | 🇪🇸 Beginner Spanish</p>
 
 ## About Me
-I'm a passionate full stack developer currently working on various projects. My main focus is on backend development with C# and .NET, and frontend development with Angular and TypeScript, including HTML, CSS, and SCSS.
+I'm an enthusiast full stack developer currently working on personal projects and building my portfolio. My main focus is on backend development with C# and .NET, and frontend development with Angular and TypeScript, including HTML and CSS.
 
 ## Career Goals
-I'm looking for an opportunity to work as a full stack developer and kickstart my career in the tech industry.
+I'm looking for an opportunity to work as a full stack developer.
 
 ## How to reach me:
 <p align="left">
