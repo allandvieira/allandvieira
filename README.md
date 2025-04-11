@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Allan 👽</h1>
 
-<p align="left">🇧🇷 Native Portuguese Speaker | 🇺🇸 Intermediate English | 🇪🇸 Beginner Spanish</p>
+<p align="left">🇧🇷 Native Portuguese Speaker | 🇺🇸 Intermediate English | 🇪🇸 Basic Spanish</p>
 
 ## About Me
 I'm an enthusiast full stack developer currently working on personal projects and building my portfolio. My main focus is on backend development with C# and .NET, and frontend development with Angular and TypeScript, including HTML and CSS.
